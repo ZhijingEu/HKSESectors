@@ -377,7 +377,7 @@
 0401.HK,WANJIA GROUP,Equity Securities (Main Board),HKD
 0402.HK,PEACEMAP HOLD,Equity Securities (Main Board),HKD
 0403.HK,STARLITE HOLD,Equity Securities (Main Board),HKD
-0405.HK,YUEXIU REIT,,CNY
+0405.HK,YUEXIU REIT,REIT,CNY
 0406.HK,YAU LEE HOLD,Equity Securities (Main Board),HKD
 0408.HK,YIP'S CHEMICAL,Equity Securities (Main Board),HKD
 0410.HK,SOHO CHINA,Equity Securities (Main Board),CNY
@@ -399,7 +399,7 @@
 0432.HK,PCPD,Equity Securities (Main Board),HKD
 0433.HK,NORTH MINING,Equity Securities (Main Board),HKD
 0434.HK,BOYAA,Equity Securities (Main Board),CNY
-0435.HK,SUNLIGHT REIT,,HKD
+0435.HK,SUNLIGHT REIT,REIT,HKD
 0436.HK,NU ENVIRO,Equity Securities (Main Board),HKD
 0438.HK,IRICO NEWENERGY,Equity Securities (Main Board),CNY
 0439.HK,KUANGCHI,Equity Securities (Main Board),HKD
@@ -546,7 +546,7 @@
 0621.HK,TAUNG GOLD,Equity Securities (Main Board),HKD
 0622.HK,OSHIDORI,Equity Securities (Main Board),HKD
 0623.HK,SINOMEDIA,Equity Securities (Main Board),CNY
-0625.HK,RREEF CCT REIT,,USD
+0625.HK,RREEF CCT REIT,REIT,USD
 0626.HK,PUBLIC FIN HOLD,Equity Securities (Main Board),HKD
 0627.HK,FULLSUN INT'L,Equity Securities (Main Board),HKD
 0628.HK,GOME FIN TECH,Equity Securities (Main Board),CNY
@@ -677,7 +677,7 @@
 0775.HK,CKLIFE SCIENCES,Equity Securities (Main Board),HKD
 0776.HK,IMPERIUM GP,Equity Securities (Main Board),HKD
 0777.HK,NETDRAGON,Equity Securities (Main Board),CNY
-0778.HK,FORTUNE REIT,,HKD
+0778.HK,FORTUNE REIT,REIT,HKD
 0780.HK,TONGCHENG-ELONG,Equity Securities (Main Board),HKD
 0784.HK,LING YUI,Equity Securities (Main Board),HKD
 0787.HK,GLOBAL BRANDS,Equity Securities (Main Board),USD
@@ -694,7 +694,7 @@
 0804.HK,PINESTONE,Equity Securities (Main Board),HKD
 0806.HK,VALUE PARTNERS,Equity Securities (Main Board),HKD
 0807.HK,SIICENVIRONMENT,Equity Securities (Main Board),CNY
-0808.HK,PROSPERITY REIT,,HKD
+0808.HK,PROSPERITY REIT,REIT,HKD
 0809.HK,GLOBAL BIO-CHEM,Equity Securities (Main Board),HKD
 0810.HK,CH INTERNET INV,Investment Companies,HKD
 0811.HK,XINHUA WINSHARE,Equity Securities (Main Board),CNY
@@ -708,7 +708,7 @@
 0819.HK,TIANNENG POWER,Equity Securities (Main Board),CNY
 0821.HK,VC HOLDINGS,Equity Securities (Main Board),HKD
 0822.HK,KA SHUI INT'L,Equity Securities (Main Board),HKD
-0823.HK,LINK REIT-100,,HKD
+0823.HK,LINK REIT-100,REIT,HKD
 0825.HK,NWDS CHINA,Equity Securities (Main Board),HKD
 0826.HK,TIANGONG INT'L,Equity Securities (Main Board),CNY
 0827.HK,KO YO GROUP,Equity Securities (Main Board),CNY
@@ -1082,7 +1082,7 @@
 1271.HK,GRAND MING,Equity Securities (Main Board),HKD
 1272.HK,DATANG ENVIRO,Equity Securities (Main Board),CNY
 1273.HK,HK FINANCE GP,Equity Securities (Main Board),HKD
-1275.HK,NEW CENT REIT,,CNY
+1275.HK,NEW CENT REIT,REIT,CNY
 1277.HK,KINETIC M&E,Equity Securities (Main Board),HKD
 1278.HK,CHINANEWTOWN,Equity Securities (Main Board),CNY
 1280.HK,HUIYINSMART-NEW,Equity Securities (Main Board),HKD
@@ -1185,7 +1185,7 @@
 1420.HK,CHUAN HOLDING,Equity Securities (Main Board),HKD
 1421.HK,KINGBO STRIKE,Equity Securities (Main Board),HKD
 1425.HK,JUSTIN ALLEN H,Equity Securities (Main Board),HKD
-1426.HK,SPRING REIT,,USD
+1426.HK,SPRING REIT,REIT,USD
 1427.HK,CH TIANBAO GP,Equity Securities (Main Board),HKD
 1428.HK,BRIGHT SMART,Equity Securities (Main Board),HKD
 1430.HK,SUCHUANG GAS,Equity Securities (Main Board),HKD
@@ -1224,7 +1224,7 @@
 1499.HK,LEAP HLDGS GP,Equity Securities (Main Board),HKD
 1500.HK,INCON,Equity Securities (Main Board),HKD
 1501.HK,KDL MEDICAL,Equity Securities (Main Board),HKD
-1503.HK,CMC REIT,,HKD
+1503.HK,CMC REIT,REIT,HKD
 1508.HK,CHINA RE,Equity Securities (Main Board),CNY
 1509.HK,HARMONICARE,Equity Securities (Main Board),HKD
 1513.HK,LIVZON PHARMA,Equity Securities (Main Board),CNY
@@ -1514,7 +1514,7 @@
 1876.HK,BUD APAC,Equity Securities (Main Board),HKD
 1877.HK,JUNSHI BIO-B,Equity Securities (Main Board),HKD
 1878.HK,SOUTHGOBI-S,Equity Securities (Main Board),HKD
-1881.HK,REGAL REIT,,HKD
+1881.HK,REGAL REIT,REIT,HKD
 1882.HK,HAITIAN INT'L,Equity Securities (Main Board),CNY
 1883.HK,CITIC TELECOM,Equity Securities (Main Board),HKD
 1884.HK,EPRINT GROUP,Equity Securities (Main Board),HKD
@@ -1818,7 +1818,7 @@
 2768.HK,JIAYUAN INTL,Equity Securities (Main Board),CNY
 2772.HK,ZHONGLIANG HLDG,Equity Securities (Main Board),HKD
 2777.HK,R&F PROPERTIES,Equity Securities (Main Board),CNY
-2778.HK,CHAMPION REIT,,HKD
+2778.HK,CHAMPION REIT,REIT,HKD
 2779.HK,CH XINHUA EDU,Equity Securities (Main Board),CNY
 2788.HK,YORKEY OPTICAL,Equity Securities (Main Board),USD
 2789.HK,YUANDA CHINA,Equity Securities (Main Board),CNY
@@ -1843,7 +1843,7 @@
 2899.HK,ZIJIN MINING,Equity Securities (Main Board),CNY
 2906.HK,WAH YAN-OLD,Equity Securities (Main Board),HKD
 2962.HK,C AUTO INT-OLD,Equity Securities (Main Board),HKD
-2964.HK,LINK REIT-500,,USD
+2964.HK,LINK REIT-500,REIT,USD
 2965.HK,HUIYINSMART-OLD,Equity Securities (Main Board),HKD
 2966.HK,EMINENCE ENT,Equity Securities (Main Board),HKD
 2967.HK,CHINA PPT INV,Equity Securities (Main Board),HKD
